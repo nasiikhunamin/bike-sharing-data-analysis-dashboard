@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+streamlit>=1.41,<2
+altair>=5,<6

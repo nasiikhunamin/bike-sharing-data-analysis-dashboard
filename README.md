@@ -17,17 +17,16 @@ Proyek ini merupakan analisis data end-to-end pada Bike Sharing Dataset (2011-20
 
 ## Struktur Folder
 ```text
-submission/
-??? dashboard/
-?   ??? dashboard.py
-?   ??? main_data.csv
-??? data/
-?   ??? day.csv
-?   ??? hour.csv
-??? notebook.ipynb
-??? README.md
-??? requirements.txt
-??? url.txt
+bike-sharing-data-analysis-dashboard/
+|-- dashboard/
+|   |-- dashboard.py
+|   `-- main_data.csv
+|-- data/
+|   |-- day.csv
+|   `-- hour.csv
+|-- notebook.ipynb
+|-- README.md
+|-- requirements.txt
 ```
 
 ## Menjalankan Dashboard Secara Lokal

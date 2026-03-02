@@ -38,7 +38,3 @@ bike-sharing-data-analysis-dashboard/
    ```bash
    streamlit run dashboard/dashboard.py
    ```
-
-## Catatan
-- Notebook analisis utama berada pada file `notebook.ipynb`.
-- File `url.txt` dikosongkan karena deployment Streamlit Cloud belum dilakukan.
